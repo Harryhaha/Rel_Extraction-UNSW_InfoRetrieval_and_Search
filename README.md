@@ -6,5 +6,5 @@ Need to extract two relations from the training data:
 Methods are:  
 1. Regex. (Applied)  
 2. Parsing tree. (could use StanfordNLP, Spacy...) (Tried)  
-3. Machine learning......  
+3. Machine learning. (SVM, neural network......)
 4. Distance learning (e.g. DIPRE method)  
